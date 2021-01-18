@@ -7,12 +7,6 @@
       "likes": 5
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
-    },
-    {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
@@ -47,6 +41,43 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "",
+      "image": "",
+      "id": 9
+    },
+    {
+      "newToy": "",
+      "id": 10
+    },
+    {
+      "newToy": "",
+      "id": 11
+    },
+    {
+      "newToy": "Dena",
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "id": 13
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "id": 14
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "id": 15
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "id": 16
     }
   ]
 }
